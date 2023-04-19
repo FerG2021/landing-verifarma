@@ -1,8 +1,8 @@
 <template>
   <div class="contenedor-principal">
     <div class="logo-verifarma">
-      <img src="verifarmalogo.png" class="logo-mobile" />
-      <img src="verifarma.png" class="logo-desktop" />
+      <img src="/verifarmalogo.png" class="logo-mobile" />
+      <img src="/verifarma.png" class="logo-desktop" />
     </div>
 
     <div class="flex flex-column gap-2 contendor-input-metros">
